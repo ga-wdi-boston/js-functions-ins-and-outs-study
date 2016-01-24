@@ -12,14 +12,14 @@ These readings are to help familiarize you with the subject matter.  You are not
 
 Please read the MDN Glossary entries for [Array](https://developer.mozilla.org/en-US/docs/Glossary/array) and [Object](https://developer.mozilla.org/en-US/docs/Glossary/Object)
 
-Please read the following pages. You may skim `ES6` and/or `ECMAScript 6`.
+Please read the following pages. You may skim `ES6` and/or `ECMAScript 6` portions.
 
 - MDN [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) reference
 - MDN [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) reference
 - MDN entry for [Object initializers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
 - MDN [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function) reference
 
- There is no requirement to follow any links from these pages.
+There is no requirement to follow any links from these pages.
 
 ## [License](LICENSE)
 
