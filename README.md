@@ -4,20 +4,22 @@
 
 ## Prerequisites
 
-- [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
+-   [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
 
 ## Reading
 
-These readings are to help familiarize you with the subject matter.  You are not expected to follow all of the descriptions.
+These readings are to help familiarize you with the subject matter.  You are not
+ expected to follow all of the descriptions.
 
 Please read the MDN Glossary entries for [Array](https://developer.mozilla.org/en-US/docs/Glossary/array) and [Object](https://developer.mozilla.org/en-US/docs/Glossary/Object)
 
-Please read the following pages. You may skim `ES6` and/or `ECMAScript 6` portions.
+Please read the following pages. You may skim `ES6` and/or `ECMAScript 6`
+ portions.
 
-- MDN [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) reference
-- MDN [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) reference
-- MDN entry for [Object initializers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
-- MDN [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function) reference
+-   MDN [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) reference
+-   MDN [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) reference
+-   MDN entry for [Object initializers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+-   MDN [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function) reference
 
 There is no requirement to follow any links from these pages.
 
