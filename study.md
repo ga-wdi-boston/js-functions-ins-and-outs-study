@@ -12,6 +12,7 @@ As well as the following articles:
 -   JSIS [Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 -   Quirksmode [Functions Basics](http://www.quirksmode.org/js/function.html)
 -   JS Webblog [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
+-   MDN [Return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
 There is no requirement to follow any links from these pages.
 
