@@ -6,22 +6,18 @@
 
 -   [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
 
-## Reading
+## Instructions
 
-These readings are to help familiarize you with the subject matter.  You are not
- expected to follow all of the descriptions.
+1.  Fork and clone this repository.
+1.  Change into the new directory.
+1.  Create and checkout a new branch, named `response`.
+1.  Follow the directions given in [`study.md`](study.md).
+1.  When finished, push to your fork and submit a pull request.
 
-Please read the MDN Glossary entries for [Array](https://developer.mozilla.org/en-US/docs/Glossary/array) and [Object](https://developer.mozilla.org/en-US/docs/Glossary/Object)
-
-Please read the following pages. You may skim `ES6` and/or `ECMAScript 6`
- portions.
-
--   MDN [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) reference
--   MDN [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) reference
--   MDN entry for [Object initializers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
--   MDN [function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function) reference
-
-There is no requirement to follow any links from these pages.
+You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+related to [forking,
+cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
