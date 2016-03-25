@@ -21,18 +21,24 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still a little unclear on Callback Functions, since some of the examples
+were from jQuery, and I am unfamiliar with the situations presented in most of
+the JS examples.  Undeclared functions also seem to act in a way that I am
+fuzzy on.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Mostly just the above.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Overall, feeling pretty good!  I feel solid on most everything we have gone over
+this week, and can sense myself iproving as I work on more and more examples/
+practice.  I think I would benefit from a review of callback functions and going
+over when it is advantageous to use undeclared functions and how exactly they operate.
 ```
