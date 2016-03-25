@@ -21,18 +21,19 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+What is a IIFE (Immediately Invoked Function Expression)?
+The difference between function expressions vs declarations
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Callbacks and how they work exactly. I think I'll have to them to full understand.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel good about it. The class is a lot and time managaement is going to be a big deal, but overall I feel once I nail down my schedule everything will fall into place. I am looking forward to learning all the material in the course and to see continue to grow as a developer after the course. The challenge of intaking all the information is both overwhelming and invigorating. 
 ```
