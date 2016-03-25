@@ -24,7 +24,7 @@ Call back function seem a little confusing the way they are explained.  I think 
 
 Are there any nagging questions relating to functions that you have?
 
-Not that I can think of at the moment.  I am sure I will have some specific questions after the week end reflection.
+Not that I can think of at the moment.  I am sure I will have some specific questions after the week end reflection. 
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
