@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+everything always makes sense until you actually try to code it yourself
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Still trying to digest method prototypes.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+learning a ton, and can't believe I know as much as I do now. I believe I can become an expert, and I see the light at the end of the tunnel.  Learning what methods and object are were a huge turning  point for me.
 ```
