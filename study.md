@@ -21,18 +21,29 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
-```
+I am confused about the object as a key. Still fuzzy about dic. I thought I had the 'this'
+part understood but got confused about the constructor. ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
-```
+I still get a bit hung up on functions when it comes to passing on the data. I frankly
+a bit terrifed by the actual word 'function' at this point.```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
-```
+I'm actually shocked by how clueless I am on some of these topics. I feel like
+everyday I have an issue with something. It would appear that I get most of it when it's
+being explained, but when it comes time to do it, I freeze up a bit. I freeze on the
+word 'function' and maybe, perhaps 'arrays' and the connection of the two. Feels like I have
+to do a lot of my searching, not for the answer but the understanding. If I don't see the
+why, it's hard for me to even come close to the writing the code. And then there are many
+times I can see the why, but can't correlate that into the code. But I desperately want to
+understand every part of this. It's very important to me that I get this. It's been a very
+tiring two weeks. I will say that I underestimated the pre-work and that threw me off. I was
+actually working on another manual that I thought would give me more clarity. As a result, I
+rushed into doing the pre-work and didn't give it the respect it deserved. So that's a black
+mark on me. With all that said. I feel very, very behind when I thought I'd be ahead in my
+understanding up to this point.```
