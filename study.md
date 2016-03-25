@@ -21,18 +21,25 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+* IIFE (Immediately Invoked Function Expression)? from the MDN function expression
+readying. Also a bit confused why you would need to refer to the current function
+within the function body. Wouldn't that create an endless loop?
+* I'm not sure callback functions are really clicking. Will help to have someone
+explain them in class tomorrow.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+What are first-class objects exactly? Are there other types of classes?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Morale is high! That being said, JavaScript is what I was most familiar with
+coming into this--so I certainly expect to face some roadblocks in the weeks ahead
+with languages I have no experience with. Also feel like I'm getting a handle on Git
+this week (at least with the WDI workflow), so that's nice.
 ```
