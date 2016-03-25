@@ -21,18 +21,23 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I mostly get the concept of a callback function, but a lecture on the topic would be helpful.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I can't think of any right now, but I'm sure I will later!!
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I'm feeling...okay about it.  Most of the times it seems like everyone is picking
+things up faster which is a bit worrying.  Talking to the TA's and hearing where
+they were at during Week 1 is reassuring.  My problem seems to be writing code.
+I can explain what functions/prototypes/etc. do in plain English pretty well, but
+when it comes time to create code I immediately feel lost.  I don't typically know
+where to start or what order to write things in, etc.
 ```
