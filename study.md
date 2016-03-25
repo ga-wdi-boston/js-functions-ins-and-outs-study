@@ -21,18 +21,20 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I didn't understand the callback function reading very well.  The explanation of its use was reasonably clear but I didn't completely follow the examples.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I feel comfortable with the concepts in the above articles but I'm still often struggling to understand how to implement functions to solve specific problems like the ones we've had for homework.  I'm also not sure how to articulate that confusion into a question but I'll try to think more about it tonight.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I'm having trouble keeping up with the pace of learning new skills as it takes me at least a full evening of going over the more recent concepts we've learned, and I feel like I need to be doing homework as well during that time.  Finding a starting point to work from for many of the assignments has also been difficult for me.  I appreciate that the assignments are geared towards making us think like developers as I imagine we'll usually be working from just an idea that we want to implement, but without more examples of starter code I find myself spending more time than I probably should thinking in circles rather than actually coding.
+Remembering efficient shortcuts has been tricky as well.  For example, still not being comfortable with node has impeded my ability to keep up during code alongs.
+Ultimately, despite these problems I'm definitely starting to understand how to think like a developer.  I'm confident that I'll be able to internalize many of the concepts I've been struggling on this weekend and am looking forward to having a bit of time to return to subjects I've marked for review.  
 ```
