@@ -20,19 +20,13 @@ There is no requirement to follow any links from these pages.
 
 After doing all the required readings please tell us anything you were confused about.
 
-```md
-<!-- your answer here -->
-```
+Call back function seem a little confusing the way they are explained.  I think that walking through the labs in class helps clarify any of the vocabulary I read that may be confusing me.  I am gaining a better understanding of funtions and how to construct them for problem solving.  I have to continue to practice creating functions and implementing the new details we have learned during the week.
 
 Are there any nagging questions relating to functions that you have?
 
-```md
-<!-- your answer here -->
-```
+Not that I can think of at the moment.  I am sure I will have some specific questions after the week end reflection.
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
-```md
-<!-- your answer here -->
-```
+I feel that the process is going to be uphill.  I feel comfortable with the challege.  My only concern is my thought process is not as fast as others in the class.  I will undersand material in the code alongs and then go blank when the diagnostic or problem is put in front of me.  I think my bigest challege is getting started.  I might be overthinking things and second guessing.  I want to use the weekend to gather my questions that I might need further explaining or just hearing another point of view.
