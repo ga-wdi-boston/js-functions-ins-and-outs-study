@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still hazy on some of the niceties of hoisting and the precise differences between function declarations vs. expressions, but I think it will take beating my head against some errors to really understand those.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Again, I think the questions will come out with use.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+So far most of the *coding* concepts we've covered is mostly stuff I've seen before, but the GitHub info is really helpful, and it's useful to learn how to implement various concepts in Javascript in particular, since it's often done somewhat differently than in Ruby or Python. And the Outcomes intro today made me feel good about my prospects as well.
 ```
