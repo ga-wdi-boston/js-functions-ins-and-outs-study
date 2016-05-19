@@ -18,21 +18,25 @@ There is no requirement to follow any links from these pages.
 
 ## Share Your Understanding
 
-After doing all the required readings please tell us anything you were confused about.
+After doing all the required readings please tell us anything
+you were confused about.
 
 ```md
-<!-- your answer here -->
+Nothing so far
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not that I can think of right now.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am really very confident with the material so far, but I also know how little
+we actually have covered, so I know I am just a n00b.
+
+I want to be a l33t h4x0r.
 ```
