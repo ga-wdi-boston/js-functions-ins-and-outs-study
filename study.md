@@ -21,13 +21,14 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Function expressions are still a little confusing and I'm still a little unclear on and how they relate to callback functions. Also how to implement all of these things properly but I think a lot of that will come with practice.
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I think the one thing I'm still trying to wrap my head around is how you know whether or not to use a callback function and when it's ok to leave it anonymous or when it's ideal to name them.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
