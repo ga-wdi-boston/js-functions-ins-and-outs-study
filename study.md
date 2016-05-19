@@ -21,7 +21,10 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+- when does .this refer to the window instead of my object in callback functions
+- I didt understand the example with jQuery’s AJAX function in the callbacks reading
+- self invoking functions
+- difference between function declaration and function expression
 ```
 
 Are there any nagging questions relating to functions that you have?
