@@ -21,13 +21,13 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Nothing really--I was glad to see the reading on function declarations vs. expressions because that was something I had been wondering about. Many of the online tutorials I had done primarily favored function declarations, and I had wondered why we'd avoided them in class so far.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not at the moment.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
