@@ -21,18 +21,41 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I've never understood "return" unless youre just trying to print a message in which case why don't you just console.log().  I see it as just a different location where to send your end product. If a function calculates something then it should spit out that value that was calculated- so whats the difference between:
+
+let coolFunction = function (par){
+do this
+}
+Then call it later, setting it to a variable
+variable = coolFunction(parameter);
+
+compared to
+
+let coolFunction = function (par) {
+do this
+variable = result after doing this
+return variable
+}
+
+coolFunction(parameter); // sets a variable equal to the result
+
+Then calling it, you dont need to set variable equal to something, there's automatically a variable = the result, you dont need to set a variable to store the value.
+
+Is that correct?
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+How can you change the value of a global variable from the inside of a function? and have that new value available globally?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am pretty confident in my programming abilities, I just know there's alot of functions
+available that I am not using to make my code more efficient. Such as using .forEach
+instead of looping through.
 ```
