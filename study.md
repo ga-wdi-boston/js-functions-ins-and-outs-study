@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Still confused why some of the examples have "var" in them. And also I think i need a refresher on what forEach does again.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I havent run into an issue yet with it but why do we have to put a word in parenthesis after function sometimes like function (word) and other times we dont?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+It seems to go on a day by day basis. Somedays are good and somedays are bad. Reading code has gotten a lot better for me so I can understand what the written code is trying to do and the concept. However, I'm still getting stuck a lot starting problems. That is why I love the trainings or studies where we have example code I can look at. Not to just copy of course but to refer to when I get stuck. It helps me visualize how to go about structuring the code and then I can do it on my own. Still a little in the woods on what all of the new coding "vocab" words can do but I'm hoping that comes along with time.
 ```
