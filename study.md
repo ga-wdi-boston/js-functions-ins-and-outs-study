@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- confused about declarations and expressions.  Also feel like I am not on par with the course because I feel like I am not able to write code. -->
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+<!-- not so much that I have questions as that I need a TON more practice at actually writing code-->
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+<!-- I feel like I am behind in the course being that I am not able to write proper code yet.  Seems like some of the concepts I am starting to grasp but feel that I am way behind everybody now.  Basically I am at the bottom of the curve and hopefullt I can get to the upwards and onwards part.-->
 ```
