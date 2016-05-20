@@ -21,18 +21,30 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I am slightly confused about the concept of function declarations versus
+function expressions assigned to variables.
+I understand that hoisting is a part of the issue but not sure why
+declarations tend to cause problems.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I am having a little trouble understanding the concept of scope with functions,
+and identifying what is reachable and what is not within different functions.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am feeling very excited! I know we are just beginning to scratch the
+surface of the material that we will need to master, but I am really
+enjoying the process and trying not to stress when there are things that I
+cannot fully comprehend right away.
+
+I love the structure of the lessons and also the general thought process that
+we have been introduced to by our instructional team (growth mindset,
+breaking things down into simple problems, giving it a try without fear of
+failure.)
 ```
