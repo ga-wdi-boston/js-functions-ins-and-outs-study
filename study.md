@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still a little bit confused about callback functions, and the nested functions in the javascriptweblog link are kind of daunting.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I can't think of any specific questions, but I'm sure I'll have some during class tomorrow.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Although I've spent the past year or so learning JavaScript (in a random, hodge-podge sort of way) the way the classes have been structed so far has helped to clarify and strengthen some of the concepts that I had passing familiarity with. I feel my progress has gone well during this first week. 
 ```
