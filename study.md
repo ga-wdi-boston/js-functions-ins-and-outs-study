@@ -18,21 +18,32 @@ There is no requirement to follow any links from these pages.
 
 ## Share Your Understanding
 
-After doing all the required readings please tell us anything you were confused about.
+After doing all the required readings please tell us anything
+you were confused about.
 
 ```md
-<!-- your answer here -->
+I think I get callbacks but I do feel a little fuzzy so I think I need to do
+some exercises to get really comfortable with them.
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Should I tend to use function declarion only when I am defining a callback
+within the argument list of a function (like forEach), but otherwise stick to
+function expressions and/or named function expressions?
+
+When should I use an FE vs NFE? I have been using NFEs but I don't know if
+it really matters (I hadn't really thought about it before). 
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am really very confident with the material so far, but I also know how little
+we actually have covered, so I know I am just a n00b.
+
+(myObjective is: `this instanceof l33t h4x0r === true`)
 ```
