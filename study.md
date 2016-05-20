@@ -21,18 +21,22 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm a little confused by anonymous callbacks, when we use an anonymous function
+how does JS know what function to use? The JSIS article also used a lot of examples
+with "callback" as the function name, is that an anonymous function too?
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I had one last night, but then I didn't write it down.....
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I think I'll get there. My English major brain is a little bit slower to process
+and figure out problems sometimes but I think that will come with practice and
+developing my computer brain. Just needs practice.
 ```
