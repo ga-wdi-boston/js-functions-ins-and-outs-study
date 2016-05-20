@@ -21,18 +21,29 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+- when does .this refer to the window instead of my object in callback functions
+- I didnt understand the example with jQuery’s AJAX function in the callbacks reading
+- self invoking functions
+- why not always use function declaration instead of function expression, is that the safer way to prevent issues with the browser?
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+- nothing specific, I need more practice with specific examples, with a step by step approach
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I think I learned a lot in the last four days. I don’t know if I’m on the right track since it just started and I feel that I’m not comfortable with all the concepts yet.
+
+Coming in with very little pre knowledge (some treehouse, code school etc.). I feel I learned a lot in very little time. Git/Github makes much more sense and I’m able to navigate via terminal- small victories!
+
+I haven’t yet figured how the best way to structure myself. Today in the challenge I was searching for something in a specific repo and that took me very long, so I ended up having no time for the actual challenge.
+
+I would like to have some kind of a wiki/glossary with all the most important syntax stuff. I hope I have enough time to do something like that during the weekend. The setup inside of the wdi folder is very confusing. Practice, training and study as folder names are not very self-explanatory. 
+
+I don’t have yet all the syntax in my head. I feel I need more time for each challenge and concept, but there are only 24h a day so I need to be clever about how I spend my time. The concepts will build on top of each other, which worries me.
 ```
