@@ -21,18 +21,26 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm mostly confused about the callbacks reading, particularly on setting up a
+working callback function. Additionally, I'm unclear on the issues surrounding
+the context of the object and how to correct this by using other methods,
+like call and apply.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Which function do you know is the appropriate tool for problem solving? The end
+of the reading about callback functions mentions when such a function is
+frequently used, but I still don't understand those instances or instances when
+constructor functions are worth using. 
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+At this point I would be hard pressed to say that I was not feeling overwhelmed,
+but I completely understand that it is part of the process. Thus far I would
+say that I have a fair understanding of the concepts, some more than others.
 ```
