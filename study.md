@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I didn't find anything confusing.  I'd like to practice callback functions, but I do understand why they're used (compartmentalizing code).
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not thus far.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel good about my progress as a developer.  I think I already had a good basic knowledge of JS, and I'm filling in gaps and getting further practice.  I didn't have experience working with classes, though, so I'm glad to have an understanding of those.
 ```
