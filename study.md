@@ -21,18 +21,20 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I feel good about the concepts in the readings, just need more pracitce coding with them
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+No, just more practice
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I need more hands on practice using the material we've gone over.  The exercises are great,
+just need more time to work on them.  In a previous life, I was much better at recongizing
+the coding solution, I'm hoping to get back to that with additional practice.
 ```
