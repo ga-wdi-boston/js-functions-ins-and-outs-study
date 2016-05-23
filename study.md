@@ -21,18 +21,53 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+***********************************
+in this code :
+
+function counter() {
+  for (var count = 1; ; count++) {  // infinite loop
+    console.log(count + "A"); // until 5
+      if (count === 5) {
+        return;
+      }
+      console.log(count + "B");  // until 4
+    }
+  console.log(count + "C");  // never appears
+}
+
+counter();
+
+when do we use a break statement and when do we use a return statement?
 ```
+***********************************
+
+***********************************
+in this code,
+function foo(){
+    function bar() {
+        return 3;
+    }
+    return bar();
+    function bar() {
+        return 8;
+    }
+}
+alert(foo());
+***********************************
+I'm not sure why 3 isn't returned and 8 is returned.   It looks like the foo function is called and the bar function would return 3 because bar is originally declared to return 3 with bar being called right after it.  I'm reading about this "hoisting" stuff now.. I hope it explained in class today.
+
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
-```
+Nothing nagging.  Questions just come up as I'm exposed to new code.  I do my best to try to get them
+answered via teachers or my squad as soon as I can.  I feel like programming is study that builds upon itself and you want to make sure you "get" a topic because it will be the foundation to the next set of learning.
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Feeling four fingers out of five. I understood everything yesterday in the class work ( objects and
+prototypes) and I am trying to be shameless about asking questions about things I don't understand.  I've found that by asking questions, I'm solving a lot of my problems and learning more about the
+workflow a a developer.
 ```
