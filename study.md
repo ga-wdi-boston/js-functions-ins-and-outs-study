@@ -21,18 +21,26 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Still a little confused about how to attach methods but I'm pretty confident
+it will become evident with practice.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I had a question about callbacks within callbacks within callbacks, but Jeff
+answered that in class the other day.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I knew I was going to approach the immersive with a serious attitude, but I'm
+surprised at how much pleasure I can get out of solving coding challenges,
+particularly issues that can be thought about visually. I feel I need more
+practice outside of class writing JavaScript just to get more comfortable with
+it, but I'm already starting to see the interesting possibilities of how JS and
+JQuery can interact with the static elements in a web project. Can't wait to get
+started on TicTacToe.
 ```
