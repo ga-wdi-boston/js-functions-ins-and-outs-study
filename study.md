@@ -21,13 +21,15 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I was having a hard time understanding what is ment by "hoisting".
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I can't think of any specific questions off the top of my head, but being that
+I'm still struggling with them, Im sure that today I wll have multiple nagging
+questions.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
