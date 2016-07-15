@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I still have some trouble with the `return`
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not at the moment but I'm sure I will 
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I realized this even in this one week I've learned a lot. It's easy to be overwhelmed and lose confidence throughout the day/week but I'm confident that I will be able to pick this up.
 ```
