@@ -51,7 +51,7 @@ time to begin coding I have trouble figuring out where to start. I know it is
 early in my programming journey so I am trying to not be hard on myself but it
 can be disheartening to stare at the screen without knowing where to begin
 especially when David, my squad member, is sitting next to me and seems to be
-firing on all cylinders as soon as we start working individually on a problem.
+firing on all cylinders as soon as we start working individually on a problem. 
 
 David and Ying have been very helpful with sharing ideas and pointing me in the
 right direction, so I am hoping that as I watch them attack a problem I can
