@@ -29,12 +29,15 @@ Are there any nagging questions relating to functions that you have?
 ```md
 I can't think of any specific questions off the top of my head, but being that
 I'm still struggling with them, Im sure that today I wll have multiple nagging
-questions.
+questions.git
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I definitely feel as though I've learned a lot since we started; especially in
+relation to using the terminal and Git.  I can tell that I'm still having huge
+issues with understanding how to structure and properly use my code when it
+comes to functions and loops.  I think that's my greatest frustration right now. 
 ```
