@@ -21,18 +21,23 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+for instance,
+function x(a,b,callback){
+var c=5;
+var d=a+b;
+}
+so, callback can pass a, b and d, can it pass c, which is 5?
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+when to use function declaration or function expression?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+The most important thing I learned so far is how to learn. I feel more comfortable when I face something totally strange. Although I still have confusion on some concepts we learned in class, I believe I'll get better understandings when I enter a higher level. 
 ```
