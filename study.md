@@ -21,18 +21,19 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+the call and apply functions. having a second callback, specifically as a third paramater confuses me most of all.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not nagging. I would really like to go over indexOf more but that does not relate to functions really. 
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
+
 ```md
-<!-- your answer here -->
+I feel like I have a lot farther to come before I feel comfortable scripting. Javascript is definitely my weak point and I am excited to see it develop. Things are starting to build on each other in terms of knowledge and topics becoming familar again since I havent touched javascript on a day to day basis in months and the differences between vanilla javascript and angular are becoming more apparent. But clarity is building
 ```
