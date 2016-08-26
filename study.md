@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+After reviewing all of the articles I found it more difficult to unduerstand the ones on the MDN website because they refference words I am unfamiliar with. After using google to find out what they mean, I was still unsure why they were being used in the article. Overall, I had the most trouble with the declarations vs expressions formatting.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+What can I do, besides re-read the articles, to better understand each part of a function, and where to place them.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+So far, I've been really excited to learn about everything we've covered, but I feel that I need alot more practice with writing javascript.
 ```
