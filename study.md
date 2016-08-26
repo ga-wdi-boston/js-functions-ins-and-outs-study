@@ -21,18 +21,20 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still confused about arrays and how to loop over or access into them. I don't have any specific questions just yet, I just need to review the concept again this weekend.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+In what instance would you use a function declaration vs. a function expression? The JS Webblog reading was pretty confusing for. I'm having trouble connecting the dots as to how this would be used in the real world.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+At the moment I'm still working towards my aha moment. When we're going over new material in class I'm understanding the concepts in their isolated examples, but when I get to the labs and challenges I draw a blank when it's time to start solving the problem. I need to practice more with thinking through the problem and writing pseudo code. I'm planning to review the material we've gone through this week over the weekend so that it sinks in a bit more.
+
+I definitely still feel like a newbie to everything, but once I'm able to start connecting the dots I'll feel more confident.
 ```
