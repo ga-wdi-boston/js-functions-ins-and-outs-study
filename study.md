@@ -21,18 +21,22 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+The hoisting and returns was a bit confusing.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+If a function doesn't have a name, what is its purpose?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I'm feeling alright about it. Certain things have clicked while others havent quite yet.
+I'm still getting used to some of the jargon which at times throws me off because I
+forget what some words mean. The most confusing thing at this moment is
+the prototypes. Im somewhat comfortable with 'this' but in certain situations im not
+100% sure what 'this' will refer to. 
 ```
