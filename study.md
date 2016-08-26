@@ -21,18 +21,17 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
-```
+Not a lot of confusion on the articles' core concepts, but there is a good amount of unfamiliar jargon with which I'm unfamiliar which makes readin them a little more labor-intensive, and a little tougher to grasp.```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not a lot of questions, but I feel like more experience working with smaller problems would do a world of good.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I'm uneasy, but I suspect that is mostly the adjustment to the intensity and speed of the immersive environment. I feel confident taht my unease will be put ot rest as we move through the material,a nd I gain a deeper fluency with the concepts. 
 ```
