@@ -23,6 +23,9 @@ After doing all the required readings please tell us anything you were confused 
 ```md
 I am generally left a bit confused from the JSisSexy article about callback functions.  Mostly because some of the
 terminology is unfamiliar, but I would be if I reread the article next week, it will make perfect sense.
+
+
+** after morning's lesson, I am feeling much better about callbacks.
 ```
 
 Are there any nagging questions relating to functions that you have?
