@@ -21,18 +21,29 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I don't understand this example here:
+
+var a = function bar() {
+    return 3;
+}
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Aside from "it's tighter", I'm curious as to why it's recommended to do function expressions instead of
+function declarations, since the latter can be hoisted.
+
+Also, why do you need a function expression to assign a function to a prototype?
+Why doesn't a function declaration work?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Since I've had the FEWD and JavaScript classes, I'm feeling much better than
+I was the last time I attempted WDI. I am a bit worried about the backend stuff,
+but in terms of what we've had this week, so far so good.
 ```
