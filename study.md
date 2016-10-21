@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm not completely sure that I understand the idea of hoisting, and especially of variable hoisting vs function hoisting.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Is there any reason to allow hoisting to occur? Wouldn't it be better to almost always declare functions and variables at the beginning of scope?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel pretty strong so far, but I think it's mostly based on the knowledge I had coming in. I think that tonights study is the first set of things that I hadn't REALLY studied in depth before, and I'm not completely sure that I have it.
 ```
