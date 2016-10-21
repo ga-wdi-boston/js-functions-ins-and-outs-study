@@ -21,18 +21,28 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+from inside a call back function, how can I assign a value to a variable outside the call back function?
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+how does it work / what happens when a function is written but not assigned.
+
+like
+function (){} or function functionName(){}
+
+VS
+let x = function ()
+
+
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Pretty good, I feel like I'm at a level around 25% in the class, so could be worse. I hope to catch up this weekend.
+I like that all the skills and the format im learning in is all focused
+
 ```
