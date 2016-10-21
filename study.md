@@ -21,18 +21,22 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'd like to practice common use cases of callback functions.
+I had to do original study on function declarations vs expressions to follow.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+See comment above. Nothing additional.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I'm feeling good. I'm interested to understand more about how grunt tests
+work and develop my own. In terms of already covered topics, I'd like more
+review on accessing arrays (especially arrays within arrays).
+
 ```
