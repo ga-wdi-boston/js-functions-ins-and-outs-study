@@ -21,18 +21,25 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I understand how callback functions work but it would be nice to see some
+actual 'real-life' examples of use.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not particularly, but I am sure I will encounter some as I go along!
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am feeling confident in my progress as a developer thus far. Having some
+development experience before hand it is quite fulfilling to apply it in
+concrete ways and also help others to further their programming skills. There
+are some things that trip me up but after I use them sufficiently (the node/js
+interpreter is really great for this practice) I usually am quite competent in
+how they are used and applied. I am certainly looking forward to the projects
+where I can put everything I know and have learned to use!
 ```
