@@ -21,18 +21,23 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Callback functions are definitely still confusing. The idea of a function within a function makes sense but the implementation is what is confusing. When do we use them?
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I think I understand funcitons fairly well. I tried creating some of my own callback functions but struggled to get them to work so practicing this would be great
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am feeling okay about my progress. What is happening in my brain is something that has never happened before.
+I am fairly certain I understand all of the concepts of what we talk about in class but I struggle putting them into practice.
+
+One example is the boggle challenge, I literally had no idea where to start and had to look at someone elses code after to see what might be happening.
+
+I think this is partially my fault. Since class has started I have had very little time to sit down and zone out and learn some things and I think that will help.
 ```
