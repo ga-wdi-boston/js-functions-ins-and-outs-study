@@ -21,18 +21,24 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Everything was pretty straight forward and I had a fundamental understanding
+of everything that was talked about in the links.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I was confused about Function Declarations vs. Function. It wasn't very
+clear for me.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel that I'm progressing more and more each day, a big problem that
+I am having though is that when we are given a problem like the subway homework
+or boggle I have a hard time translating the problem into code. For
+the most part I'm comfortable with the pace we are going at and able to process
+more as we go on.
 ```
