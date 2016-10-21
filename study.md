@@ -21,18 +21,26 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+One of my biggest challenges has been trying to understand all the definitions, so these articles have helped to clarify the concepts for me.  I think these articles present the information more clearly than Fundamentals, and I wish this info had been presented on day 1 of class.  Walking through a visual of the syntax and visually identifying each part would be super helpful.  I don't recall this being done.
+
+When I read this info, I am not confused.  It is when I have to write the code that I most times do not know where to start.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I'm a bit confused about Objects, and how they relate to Functions.  Objects are just variables that contain multiple values, versus a single variable?
+
+Re: properties and methods, is there any reason to use one term versus the other?  If they are truly totally interchangeable, I would like to use one to eliminate confusion.
+
+What are the other terms that are totally interchangeable?
+
+Is there a list of any boilerplate or template functions that are available similar to the code used for looping?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Feeling OK at this point...I've gone from wanting to run screaming to being OK with my ineptness.   This class has been really difficult and humbling because I came into it without any development training at all.  I feel I am already behind, and question whether I can ever catch up.  I'm concerned that if the pace increases in the next week, I will not succeed -- and I hate feeling this way.
 ```
