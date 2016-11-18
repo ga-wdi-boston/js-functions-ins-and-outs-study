@@ -20,19 +20,14 @@ There is no requirement to follow any links from these pages.
 
 After doing all the required readings please tell us anything you were confused about.
 
-```md
-<!-- your answer here -->
-```
+
+For the most part understanding how functions work and writing for myself is the hardest, but I am getting better as understanding the logic the more I work on them and see them being writing. Ara was a big help in breaking it down for me. Understanding that the variable is the thing that never changes helps and the function is the change we want to make. 
+
 
 Are there any nagging questions relating to functions that you have?
-
-```md
-<!-- your answer here -->
-```
+Not yet...
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
-```md
-<!-- your answer here -->
-```
+I feel like my progress as a developer is pretty novice of course. I am pushing myself to learn quickly, and manage my time. I think the progess I am making is expected because the course is tough but I know I can do it. I'm building upon what I know, and what I've learned each day. 
