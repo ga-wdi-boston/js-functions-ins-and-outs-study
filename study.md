@@ -21,18 +21,20 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- I am a bit confused about how to impliment call back functions. I understand the definition based from the readings and information i've found on google however i would need to apply it myself to fully understand what a callback function can do for me. -->
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+<!--  No  -->
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+<!-- I am more advanced now than when I started GA however I feel there is a ton of information that I still need to gather and practice. I am not as confident as I would like to be with my skills but I am determined and with time I will be able to utilize the information that has been given by the instructors.
+
+I know how to research and ask questions better and use the resourse available to me which makes me feel good.  -->
 ```
