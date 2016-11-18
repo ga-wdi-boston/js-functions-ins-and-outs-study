@@ -18,21 +18,25 @@ There is no requirement to follow any links from these pages.
 
 ## Share Your Understanding
 
+
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+calling and applying.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not really, just looking forward to the in class demonstration.  I have used
+callback functions in jQuery but can't wait for a much more in depth
+ explanation.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I have come a long way since starting on codecademy.com back in Feb but there is
+still a long way to go.
 ```
