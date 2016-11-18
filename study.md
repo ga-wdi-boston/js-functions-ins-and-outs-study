@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+im just confused with know when to use which function and what determinds why we use that function.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+understanding which javascript display possiblity to use
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I was pretty low at first but i feel like have came along way with all of it. i really had to put time in learning the terminaology and understand how the questions are worded and what they are actually asking me to do. I notice that it is similiar to math word problems.
 ```
