@@ -21,18 +21,17 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I still do not completely understand how to format the constructor/object with javascript.  It will take time to get it so that it becomes second nature.  I understand the overall concept and what it is suppose to do.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Maybe finding/obtaining a simple reference/flowchart to follow until it becomes natural as the html/css has cbeome for me
 ```
 
-Thus far how are you feeling about your progress as a developer, please give
-an extensive answer?
+Thus far how are you feeling about your progress as a developer, please give an extensive answer?
 
 ```md
-<!-- your answer here -->
+I do feel much more comfortable than I was Monday.  However, I still am very uncomfortable with the amount of new information that I have actually retained and know how to implement it.  I also need to wrap my ahead around the type of community/environment that supports the developer and buy into it.  Overall, I am confident that I will get through this now that I have accepted the change with my usage device.  The tech issues had been a major hindrance, I will catch up and resolve the stress of being behind, which will allow be to better absorb the new information moving forward.
 ```
