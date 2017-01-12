@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+So functions make a little more sense now but using callbacks and also . notation is still confusing. But I am definitely understanding basic examples of how to use functions, it's just when things get more complicated my understanding breaks down. I think I completely understand how to use return and how it stops the execution of a function.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I know I'm still confused about functions but it's hard for me to formulate specific questions about them. Hopefully, with more practice I won't struggle with this anymore.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+So far, I think I've made a lot of progress. Thinking back to when I was completing the fundamentals, I really didn't know anything and now, I defintely know enough to at least try to start a problem or how to start looking up specific things to help me with a problem I am not understanding.
 ```
