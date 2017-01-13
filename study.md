@@ -21,18 +21,26 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- //////////// ? LIST OF THINGS I DONT UNDERSTAND ? /////////////// -->
+(Note: This is the unofficial list before going back through this weeks repos)
+
+Functions: arguements vs return values! vs console.log
+Functions: when to pass parameters and when not to
+Function: expressions vs decleration
+Function: call backs
+Array: Prototypes
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I have too many broad sweeping questions about general concepts that I can't verbalize specific answerable questions from. In summation "I dun get it."
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+NOT GREAT! Fist of Five: I am at a 2. Back to the previous question: "What's nagging at me" is not knowing how to help myself here. I am in class at 7am and leave around 8pm. I can stare at the materials all damn day but I'm not retaining anything by reading..that's just my learning style. I would like a methodical way to tackel a word problem. I need to get past the phase of looking at a question and not knowing where to start. I feel like I'm still on Tuesday.
 ```
