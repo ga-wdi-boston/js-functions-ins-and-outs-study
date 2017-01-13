@@ -21,13 +21,31 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!--
+1.self invoking function expression
+
+https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
+//**Simulated processing sequence for Question 2**
+function foo(){
+    //a declaration for each function expression
+    var bar = undefined;
+    var bar = undefined;
+    //first Function Expression is executed
+    bar = function() {
+        return 3;
+    };
+    // Function created by first Function Expression is invoked
+    return bar();
+    // second Function Expression unreachable
+}
+alert(foo()); //3
+2.Why is the second function expression unreachable? I understand that a function will exit after it gives a return value but how is the above to return the first and not the second? How is true determined to return the first return statement?-->
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+<!-- Answered in q1 && 3-->
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
