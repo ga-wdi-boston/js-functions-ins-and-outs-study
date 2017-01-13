@@ -21,18 +21,22 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+In the JSIS article on callbacks, there is an example where the function `successCallback()` is defined twice. How does this work?
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+In what cases would it be desireable to use a function declaration rather than a function expression? Are there any cases where it is clearly more advantageous to use declarations or is it just a matter of how a developer chooses to structure their code?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel as though I understand many of the core concepts that we've explored so far. However, I sometimes find myself frustrated when I need to creatively apply those concepts to a problem.
+
+For instance, during the challenge today I wrote a boggle function that was only able to pass the 1/3 tests written for it. After talking to Sam, I saw that he had a much simpler and more elegant solution.
+
+While I was able to implement a similar solution after understanding the concepts behind his function, however, I felt frustrated by having overcomplicated the problem. This is not the first time I have felt this way about code that I have written.
 ```
