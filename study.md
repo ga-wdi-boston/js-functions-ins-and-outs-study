@@ -21,18 +21,31 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I think I get this set of readings.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+While I was doing my precourse work I really struggled with trying to figure out
+when to call an argument in a function and when not to.  I'm pleased to say
+that I understand it much better now!  I feel like I have functions pretty well
+understood at this point.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Honestly, today was a little rough.  I had to miss class on Wednesday to go to
+court for my divorce.  While emotionally I'm doing pretty well with that, I
+didn't figure out that I could check out and read the solutions branch of the
+lesson to reconstruct the code-along until today in class, so I was completely
+unprepared/unable to handle the diagnostic.  On the other hand, I have some hope
+ - I was able to start breaking down the challenge into solvable chunks.
+Starting code from scratch is still very intimidating, but I'm starting to find
+that messing around on paper helps me organize my thoughts and start working.
+I'm a little overwhelmed by the process of putting all the pieces together to
+make things into a website, but I feel like I'm learning well and keeping up
+(dare I even say enjoying?) the pace of the course.
 ```
