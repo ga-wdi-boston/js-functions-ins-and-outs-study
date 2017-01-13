@@ -21,18 +21,17 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!--Just want to clarify on callback functions, does it just mean a nested function? Like if, in math terms, I wanted to solve f(g(x)) is g(x) the callback function? And if it is, am I allowed to call g(x) by itself at any point after that or can I always call g(x) back inside another function?-->
 ```
 
 Are there any nagging questions relating to functions that you have?
-
 ```md
-<!-- your answer here -->
+<!--Can you go over anonymous functions? I think not getting that is part of why I'm having a hard time getting callback functions... like how do we call it back when it doesn't have a name?-->
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+<!--I'm still feeling kind of insecure, I think because of yesterday's lab... that said, I think I'm getting more comfortable with being uncomfortable/not knowing all the answers. I think I felt more sure earlier this week than now, but I'm okay with that because I guess this means I'm at the point of informed pessimism? I did feel better after today's lab(glow, much?) when my squad held off on looking at the solutions until the very end and we found we were actually on the right track, just our lines were in the wrong orders.-->
 ```
