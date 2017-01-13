@@ -21,18 +21,21 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still trying to understand the way callBacks work and how to use them. although rereading has helped a bit.
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I'm definetly understanding more than I did a few days ago about functions. But feel like I need more practice and some info on best practices regarding functions.
+
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+About two weeks ago I was unsure I could do this. This week on tuesday I was feeling a bit discouraged trying to code some of the exercises. But today I'm optimistic, I was able to get the two excrecises in class done, the ATM and the other one (sorry its been a long week and my brain feels like a melted grilled cheese) I'm understanding the concepts and begining to be able to write the code correctly. YEAH ME!
+
 ```
