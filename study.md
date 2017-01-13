@@ -23,7 +23,6 @@ After doing all the required readings please tell us anything you were confused 
 ```md
 I am confused about nested callbacks and the example given in the article about return:
 
-```js
 function foo(){
     function bar() {
         return 3;
@@ -34,7 +33,6 @@ function foo(){
     }
 }
 alert(foo());
-```
 
 I understand that something about the way bar() is defined both times causes JavaScript to read it before the return but I'm not sure what that thing is.
 ```
@@ -46,17 +44,16 @@ What is the difference between the various ways of declaring functions? we touch
 difference between the arrow notation and typing out a function literal but there are
 apparently noteworthy differences between
 
-```js
 function aFunction() {
   return true;
 }
 
-AND
+and
 
 const aFunction = function () {
   return true;
 };
-```
+
 I would think (assuming I do not have a syntax error somewhere in there) that these should
 behave identically and yet one of the blog posts seems to imply it does not.
 ```
