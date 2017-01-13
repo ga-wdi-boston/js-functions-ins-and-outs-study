@@ -21,18 +21,17 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
-```
+A little bit on Quirksmode site. Even though it was step by step, I'll go over some other resources so that I can understand the topic more.```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+One of my main problems is how to set up the whole objects in JavaScript. The construction of them makes sense for some students but I am having a hard time having that mental image on how those should be set up.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+The JS lesson has been challenging. I am really looking forward to this weekend because I plan on extensively studying the lessons to make sure I catch up with the rest of the class. At the same time, when I talk to other students, it looks like many of us are in the same page. Still, I feel confident on my ability to power through and problem-solving. My squad has been very helpful and supportive also, and I just got new glasses! (it is very hard to see the small letters of terminal/atom in the projector), so I will be more "present" in class and following along. If anything else fails, I will be asking y'all to allow me to sit in front regardless of my squat's position (sorry, truly bad eye sight!).
 ```
