@@ -21,18 +21,29 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Callback functions.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I understand the basic logic of functions and how to set them up.
+
+Question: Why is this question asked? When we have google... for all our nagging
+questions.
+
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I'm still a beginner when it comes to the programming aspect of development. I
+understand how html and css work and could put together a basic page but I have
+no sense of style. I am a puzzle solver, so if I had the pieces I could put the
+page together. One thing I'm struggling with is understanding what is being
+asked when I am taking the diagnostics. I believe I have the knowledge to do
+what is being asked, I just cant connect the code to the terminology. If that
+makes sense. Maybe, its the test taking aspect that I feel rushed so I am
+skipping over key terms..   
 ```
