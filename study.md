@@ -21,18 +21,27 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+callbacks, I see how they are called, but I am fuzzy how arguments get passed to them.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+how do I a value outside of a function to change. for example
+x = 23
+changeX(){
+x = 12;
+}
+changeX();
+
+when I run this x is affect inside the scope of the function and will temporarily by 12 until
+the function ends. How do I get a function to affect things outside of it scope?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feeling really strong, I feel like I have all the tools neccessary to solve alot of problems
+i would run into. Now I need practice solving real world issues with code. It cool to return values and such and in a sense we are solving problems, but I would like do more problems where the issue is describe and I am asking to break it down into code.
 ```
