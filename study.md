@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I feel like I am going to get tripped up on how to apply callback functions properly. I get the idea, I just know that it will take me a bit to grasp properly. Same thing with the finer points of function definitions vs expressions.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Nothing in particular.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel like I an making headway and I am still very excited about learning more. I just want to make sure I stay up with everything.
 ```
