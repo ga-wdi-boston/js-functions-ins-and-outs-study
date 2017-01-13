@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- I was confused about hoisting.  How do the variables know to move up before the alert or return statement. -->
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+<!-- How does the call and apply function replace the this object? -->
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+<!-- I feel like my progress as a developer is going okay. I am concerned about not being able to pick up writing code as fast as everyone else is.  When I see a blank screen it is hard for me to know where to begin.  I start to get confused, even with breaking it down.  I dont know if i should be practicing more functions or be reading more on the subject.  What I read sometimes does not stick as well as it should be.  -->
 ```
