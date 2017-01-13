@@ -21,18 +21,29 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+
+I think I basically understand most of it in prinnciple, although actually
+applying it is another story. I would like to maybe see more explaination of
+the callback functions and how the hoisting works.
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+
+Again in principle it makes sense, although applying it without the examples in
+front of me might not be easy.
+
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+
+I do feel that I've made progress having come in with no real html, css or js
+experience, although I don't have much confidence yet in doing anyhting 
+substantive.
+
 ```
