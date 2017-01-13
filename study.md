@@ -21,18 +21,21 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I am still confused about callback functions. is the callback function just a parameter of the function that it is in; or is it a separate entity - applicalbe tho other objects?
+
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+Are there any 'golden rules' for writing functions-conventions that are applicable to all functions and function types?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I am making progress as a developer. The amount of progress is varied depending on the subject.
+I feel like I have a  better time grasping the 'why' of how things work rather than the 'how' things work. It is easier for me to listen to a lecture or look at code and understand how everything is supposed to fit together.
+The difficulty for me is in taking the concepts and applying them myself. I believe this is something that will improve with more time/practice.
 ```
