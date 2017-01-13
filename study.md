@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+All the articles are pretty clear on the subject, but I do need to do more practices with Javascript to see if I indeed understand the subject or not.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+No, but I will ask when the time comes.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I wouldn't say I have progressed alot, but I'm making improvements. I am still trying to get ahold of the basics/fundamentals of Javascript and it is still very difficult for me to comprehend and breaking the problem down into pieces.  
 ```
