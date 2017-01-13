@@ -21,18 +21,22 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Callbacks, function declarations.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+'this'
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+Too soon to say. Right now, I am too slow, I have plenty of codes that are
+incomplete and most of my working codes are inefficient. I feel I have no time
+to go back and fix them or complete them.
+I hope that one day I am given a challenge like Boggle and am able to solve it
+in 30 minutes!!!!
 ```
