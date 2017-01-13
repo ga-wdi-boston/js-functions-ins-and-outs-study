@@ -21,7 +21,10 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-I think I get this set of readings.
+I think I get this set of readings.  I just realized, having done the readings,
+that I can run the code snippets of them in node, and I've found that showing
+the results in the console is more... satisfying and helps things stick in my
+memory than simply reading what the website thinks they ought to do.
 ```
 
 Are there any nagging questions relating to functions that you have?
