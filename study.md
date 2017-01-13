@@ -4,7 +4,7 @@
 
 These readings are to help familiarize you with the subject matter.
 
-Please read the MDN Glossary entries for [Array](https://developer.mozilla.org/en-US/docs/Glossary/array) and [Object](https://developer.mozilla.org/en-US/docs/Glossary/Object)
+  Please read the MDN Glossary entries for [Array](https://developer.mozilla.org/en-US/docs/Glossary/array) and [Object](https://developer.mozilla.org/en-US/docs/Glossary/Object)
 
 As well as the following articles:
 
@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+Arrays were by far the foggiest for me, how to use empty arrays specifically.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+No questions, would like how and where should a function be passed as an argument.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+As was described to me on the first day of orientation, I find myself deep in the valley of developer dispair, feeling overwhelmed and behind. However I do see huge improvements to my knowledge and skill in coding and problem solving almost daily, which is extremely encouraging. I find myself struggling to make the adjustment to thinking and operating "like a developer" but I dont feel like it's something I can't do, in fact I beleive it's more enivitable provided I can continue. It would be nice to be caught up.
 ```
