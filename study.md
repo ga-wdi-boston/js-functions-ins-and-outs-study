@@ -21,18 +21,19 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- I am still hazzy on the specifics on functions, and the idea of call back functions. Also how they all come togther. I think I understand most of this conceptually, but putting it together is where I get lost. Especially when building functions on top of and intereacting with other functions. -->
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+<!-- I am curious about how callback comes together, and interacts amougnst other code. Especially the single line functions. I am also unsure about object.method? if thats what it actually is. -->
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+<!-- I am feeling a lot better about actually being able to learn, understand, and apply these skills. I am nervous about keeping up with the material and grasping a basic comprehention of everything we go over. I am doing my best to also go over outside material to assist with anything I am not grasping from the class materials as well as utilizing my squad mates and the rest of the class. I am excited and ready to keep going and pushing through. I need to however learn when to take breaks appropriatly and learn how to time block a little better. I feel I could easily fall victim to lossing myself in projects. Over all I feel good, and that I am on the right path towards learning.
+The course is a lot of information to gather but I think learning how to absorb the information in a way I can understand it is something I am starting to grasp.  -->
 ```
