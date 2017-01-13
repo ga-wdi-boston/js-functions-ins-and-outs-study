@@ -34,5 +34,10 @@ Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+<!-- I have a clear understanding about git status, add, commit, push and pull a request in github.
+I can identify an array and an object, and I also know how to access them (Array- Through index number || with methods; and objects through the key.
+The real confusion is when it comes to functions... for example functions that create an array or an object... the past two days, I have felt clueless about functions... I am going over additional readings and sites,after doing the homework; still at the time of producing a function I can't go beyond let or const x = function y () {};
+I know the parts of a for loop (initialization, condition, increment)statement... but can't produce one. I understand a function has parameters and those are then replaced with arguments... basically I can't create a function on my own...
+
+Yes, I am learning and I feel I can identify many parts in code... producing code is the challenge so far...) -->
 ```
