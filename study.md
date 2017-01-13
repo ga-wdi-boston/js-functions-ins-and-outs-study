@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I understand everything in principle, but it will take some practice for me to feel comfortable with much of it.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I still think a strong argument can be made for the use of function declarations over function expressions in many cases where either would do.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel pretty good, but we havn't yet covered too much I havn't seen before. I imagine it will be much tougher as the course goes on.
 ```
