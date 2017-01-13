@@ -21,18 +21,29 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still not fully understanding callbacks or hoisting, but I'm not sure I
+have specific questions yet. I plan to step away for a bit to try to reset and
+read through the documentation one more time before bed tonight. Hopefully things
+will start to sync in tomorrow.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I don't think I have any at this point, aside from the ones mentioned above
+related to our readings tonight.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel like I'm where I should be at this point. The new concepts we've learned
+have been challenging and I certainly don't have an in-depth knowledge of anything
+yet, but I also don't feel completely lost. I also feel like I've been conceptually
+able to understand the solutions to problems within the labs, practices, etc., but
+get slowed down a bit when it comes to translating my pseudo-code into actual
+working JavaScript. Even when it's something I know we've covered in a code-along
+or something, I sometimes have to go back to find that code to remember what
+it looked like.
 ```
