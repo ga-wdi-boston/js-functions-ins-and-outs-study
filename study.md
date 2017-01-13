@@ -21,18 +21,18 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I was more confused about the Function declarations vs expressions.  The Callback functions made sense and I tested them to see how they worked but I did find them confusing as well.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+I do have a few questions, specifically around breaking a problem down into its pieces to tackle the code.
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+It's up and down to be honest.  Monday was a good day, Tuesday I began to feel a little lost (when we hit functions).  Things began to click somewhat on Wednesday but by Thursday mid-morning I was feeling that perhaps my optimism on Wednesday was misplaced.  As I was reading the materials for study this evening (Thursday) I received feedback that the JS-Basics diagnostic responses that I provided were incorrect.    I have purchased a book on JS basics this afternoon that I am reading to see if it will help me. 
 ```
