@@ -21,7 +21,7 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
- Callback Hell is condufing.
+ Callback Hell is confusing.
 ```
 
 Are there any nagging questions relating to functions that you have?
@@ -35,6 +35,6 @@ an extensive answer?
 
 ```md
 First of all, I feel really happy to understand the basics of Git. Before starting this course, I was playing with it but it was always creating problems form me. Now I feel relieved.
-One of the other changes that I am constantly passing through is learning jargon of web development and start using these words in our conversations. 
+One of the other changes that I am constantly passing through is learning jargon of web development and start using these words in our conversations.
 I don’t feel overwhelmed by the information that has been transmitted by the course but I feel absence of practice for creating the skills. On the other hand, this was the forth day of the course and I am sure we will be having lots of opportunities.
 ```
