@@ -6,6 +6,15 @@
 
 -   [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
 
+## Objectives
+
+By the end of this, developers should be able to:
+
+-   Read and write function definitions.
+-   Determine the return type of a function.
+-   Explain the differences between function declarations and function
+    expressions.
+
 ## Instructions
 
 1.  Fork and clone this repository.
