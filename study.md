@@ -20,20 +20,21 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Share Your Understanding
 
-After doing all the required readings please tell us anything you were confused about.
+After reading all of the required readings, please tell us anything that you
+were confused about.
 
 ```md
 <!-- your answer here -->
 ```
 
-Are there any nagging questions relating to functions that you have?
+Are there any nagging questions related to functions that you have?
 
 ```md
 <!-- your answer here -->
 ```
 
-Thus far how are you feeling about your progress as a developer, please give
-an extensive answer?
+Thus far, how are you feeling about your progress as a developer? Please give an
+extensive answer.
 
 ```md
 <!-- your answer here -->
