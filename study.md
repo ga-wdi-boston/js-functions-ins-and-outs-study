@@ -24,18 +24,22 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+The ordering of JS just confuses me. I am understanding it at a better rate but still confusing.  I don't comprehend the design of the problems but I think I found a tutor. Example:
+
+var myFunction = function [name]([param1[, param2[, ..., paramN]]]) {
+   statements
+};
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I believe once I get the hand of inputting the steps, I will be better but for now no nagginf question.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+A few days ago I thought I would never get a hold on GitHub/ Git but now I feel alot more comfortable. A lot of the steps just vary so much and don't make sense to me at this moment but I will study and practice diligently. Plus, I work better with this one-on-one or when I am in an isolated environment. 
 ```
