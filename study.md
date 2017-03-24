@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm confused about callback functions.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Are callback functions functions that only run when a specific condition has been met?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+Well I feel like I've learned more in 1 week of class than a whole month of trying it out myself. I feel good, happy, and I like where I'm going right now.
 ```
