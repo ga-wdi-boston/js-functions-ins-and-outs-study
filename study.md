@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+A callback lets you put in a function to be called later so it doesn't run right away?
+Why would I want to do a callback? If code has to wait for input before running e.g. a 'click'?
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I think that the reasons to use a function expression is for a callback or when assigned to a variable?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel that when we are given a basic description of what we want the code to do that I can then read the code and break out what it is doing. I can even try to break the basic description into smaller bits (still workig on this).
+However, I don't feel comfortable with knowing the names of what we are coding or how to take the requirements/smaller bits and write the code from scratch (not from memory but I'm still having a hard time with the layout since we are learning so many different things).
 ```
