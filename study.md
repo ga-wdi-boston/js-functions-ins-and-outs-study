@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+After doing all the required readings, I am confusing what is different between function declarations and function expressions. And what does hoist meant?
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+What does hoist meant? What is different between function declarations and function expressions?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel like I just start the way to be a developer, and got a big picture of what a developer is. To know how a developer to learn is important in the first week.
 ```
