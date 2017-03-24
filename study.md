@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Call-backs...not so when/why we use them.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Feeling pretty good about using functions. I'm sure I'll feel diiferently about them at some point, but at the moment, after doing the reading on the, I feel alright working with them.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel that while I am starting to develop a good understanding of the logic that drives the codes we have been working on during 'code along', however that is only after udnerstanding what the code is supposed to do and then reading through it for a few minutes to try and grasp the concept. What has been difficult about this, however, is that I am having a diffictult timing understanding the JS tools we have learned, how to implement them(without prior example), and the whether or not something is a js tool, or something reliant on external conditions.
+
+I understand the concepts of arrays and objects, at least I think I do, I am just having a tough time visualizing how to implement them properly. Breaking code down into small bits seems to be the best way to go about this, even though it usually means going back and changing things...regularly.  
 ```
