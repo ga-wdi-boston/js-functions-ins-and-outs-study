@@ -24,18 +24,33 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Call back function i understand but a little fizzy.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I'm reviewing loops, it seems that i have a problem using it in most of our application
+in class.  Even if i know what it does and what uses it can do.  I blank out when
+writing the actually function to pull the right loop to get the data i need.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+Its rough for me.  I feel like i'm always behind and unable to write out the concepts
+in my head to code.  Things that should be easy turn out to be hard.  For myself
+that has no coding exp, I have to review everyday after class to get the content
+that we discess a few days ago then after getting it, we already 2 more days head
+with more content for me to review.
+
+Though i'm not stress about it, the feeling of being behind and not able to proform
+the way i use to my other roll is a little depressing.  But i'm sure i'll get it in gear
+just need to push through and work harder in applying myself into writing code.
+I dont have to much of an issue learning the content but knowing and applying seems world
+apart for me.
+
+Otherwise feeling like i need to step up my game, its good given that I just realize
+its only our 5 day.  Feel like weeks to be honest lol.
 ```
