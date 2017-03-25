@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I don't undertand template literals.
+I don't understand functional expression & hoisting.
+I need more training on callback functions.  There' a lot to absorb and it's not making sense to me.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I understand the difference between function declaration and function expression, but don’t know which one I should use & when & why.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I knew I would be a slower learner than most - that's just how it always is for me.  But once I get it (things click), I'll crush it.  I'm not close to being there yet.  Practice, practice, practice.
 ```
