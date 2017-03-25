@@ -24,18 +24,24 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I think I have a pretty good grasp of callback functions but would like to see
+more examples of it in class (like how it would be applied).
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I think I have a decent grasp on hoisting but, again, would like a more detailed
+explanation in class.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I think this past week I have definitely become more comfortable with the
+foundational elements of JavaScript. I have also learned that I'm very visual
+and really need to draw/write things out when I'm trying to code a complex
+problem. I've also come to appreciate the importance of breaking down a bigger
+coding challenge into smaller more manageable chunks.
 ```
