@@ -24,18 +24,30 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Call and apply functions as it relates to 'this'.
+Recognizing when to use function declaration vs. function expression.
+The concept of 'hoisting'.
+I'm unclear how the questions in the function declaration vs. function
+expression blog were answered
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+When is it recommended to use function declaration vs. function expression?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+After the first week of WDI the pace is certainly what I expected - fast and a
+bit overwhelming at times. What concerns me is many of the topics we've covered
+were introduced in the Fundamentals pre-work and I worry as we are exposed to
+completely new topics the learning curve will be even greater. I feel confident
+in grasping topics now but it's primarily because I have a little familiarity with
+what has been covered so far. I struggled with Friday's diagnostic and it
+worries me that I will begin to fall behind as new concepts are introduced.
+I've been working on labs and re-reading material outside of class and hope
+continuing to expose myself to code will make me more comfortable.
 ```
