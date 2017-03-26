@@ -24,18 +24,27 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still shaky on the difference between a function declaration and a function
+statement. If I am understanding the reading correctly, function statements/expressions
+are not available in memory until run time. This could impact how code runs
+depending how what is going on.
+
+ref link: http://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+No
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel ok. I think I got the fundamentals of what is being taught. I'll feel
+even better after I've completed the challenges and some of the lab work that
+I didn't get to complete in class. I wish we had more time to complete them, but
+I get that not everyone works at the same pace and that we need to get through the
+lesson. I think more of the workshop time to complete this will be very helpful.
 ```
