@@ -24,18 +24,19 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm a bit unsure about using the call/apply methods to functions instead of this.
+If you are declaring a function inside an object, wouldn't that function have the object's scope instead of global scope?
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I don't understand the purpose of anonymous functions and how you call them.  I don't really get why you would not give a function a name.  And if a function has no name, how can it be called unless it is inside another function?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I actually had some background with a few computer science courses in Java and experience wearing many hats at web development company several years ago including makling a small (and in retrospect, terrible) web app.  So I am familiar with most of the concepts we have covered so far.  However, I haven't done much that is very sophisticated yet.  I feel very comfortable with programming challenges as I have some programming experience even in my last role at Liberty.  But I have never had to do anything on a large scale or build anything like a full stack app.  I feel like the real test for me will be the projects and how I can make everything work all together.  Also, I think the course will become more challenging for me because we are already close to moving past most of what I already know and I have no experience at all in Ruby.
 ```
