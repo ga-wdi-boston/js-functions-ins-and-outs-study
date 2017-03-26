@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I wouldn't say I'm confused by callback functions, I just need some more time to understand their purpose and their usefulness.  I need a little more practice with understanding the nuances of scope in JS.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I learned how to use constructors today during the js-modeling-objects lab which was my main questino about functions so I'm feeling pretty good.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I'm feeling great about my progress as a developer.  I have experience with Java and Javascript is similar enough that I definitely have an advantage up to this point in the class.  It has been 10 years since I've done any programming so I'm happy that it is coming back to me so quickly.
 ```
