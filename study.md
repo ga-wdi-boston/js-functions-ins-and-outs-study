@@ -24,18 +24,25 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Callbacks are still a bit fuzzy from http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+example(1,'house',16,'more stuff')
+then 1 is passed to a, 'house' is passed to b, 16 is passed to c and 'more stuff' is passed to data. But now there is nothing for data2 since you did not pass anything to it in the function call. When the function arrives at the part it is supposed to do something with data2, it finds that data2 does not exist and gives error messages.
+
+from http://www.quirksmode.org/js/function.html, I thought that the data2 value
+would just be undefined and not give an error message
+
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I struggle with the pace of the class.  I understand what is being discussed
+and later read, but the speed of applying it is slow for me.  I am still
+bugged that I could not even get started with the boogle problem.
 ```
