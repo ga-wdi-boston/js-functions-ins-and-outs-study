@@ -24,18 +24,25 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+They were all pretty straightforward and clear, though I will need more practice
+with this keyword.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not really, just need to practice more to make it second-nature.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+So far I'm feeling ok, not great, not bad. It's been a long first week and I
+needed a break to recharge by the end. The concept of scope along with this is
+still a bit confusing to me, and more practice will hopefully help make what
+I've learned sink in better. I definitely feel like I'm learning a lot and am
+confident I can solve basic problems given enough time, but it requires a lot of
+forethought, research, and trial-and-error. So far I've enjoyed my time at GA,
+you all rock!
 ```
