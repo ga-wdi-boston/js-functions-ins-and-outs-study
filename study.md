@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm a little confused about callback functions.   Will read more.
+Also a bit confused about the different ways of defining functions.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not questions as much as I need more work coding functions.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I know that I have a lot lot more to learn.  I feel like week one of WDI was a great kick start.
+But I know we've barely touched the surface and I want to learn more!
 ```
