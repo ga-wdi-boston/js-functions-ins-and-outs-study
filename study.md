@@ -28,6 +28,8 @@ I'm still shaky on the difference between a function declaration and a function
 statement. If I am understanding the reading correctly, function statements/expressions
 are not available in memory until run time. This could impact how code runs
 depending how what is going on.
+
+ref link: http://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname
 ```
 
 Are there any nagging questions related to functions that you have?
