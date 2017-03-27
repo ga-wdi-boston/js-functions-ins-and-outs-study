@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Nothing was too confusing. Just need time and repitition to become familiar with the topics.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Is there a methodical process to plan and think about nesting and relating various functions? e.g. the solution provided for the MBTA practice - my approach was no where close to using that many functions. While I understand there are multiple ways to come to a solution, I would like to ensure that the solution/process for it is efficient and elegant if possible.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I think my progress has been satisfactory. There are many moments where I do become frustrated along with some feelings of despair - where I am taking longer than I expected to grasp a concept. I realized that I tend to start grasping a concept bit by bit, and then I start to remember the syntax for a concept - e.g. constructors and prototypes and using them/recalling them from memory. It seems that as long as I find the time and energy for repitition I eventually get/remember concepts.
+
+I did notice my slowness in understanding some of the challenges presented - Bobble Challenge. I did not really grasp the question or the problem that we were trying to solve and had my own assumption as to what needed to be done. It was not until other classmates clarified the problem for me that I felt comfortable to even start working on the challenge. I believe I need to find ways to better mentally visualize problems accurately so that I can solve them correctly.
 ```
