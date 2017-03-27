@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Not confused, just consiously trying to use th right terminology. This is a new language to me, after all. :)
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+what are functions within objects called..methods?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I'm pleased with the progress I have made, but I wish I were making it quicker. For example over the weekend I was able to seamlessly work through the MBTA.js practice and refactoring the meal.js practice and I felt really pleased with that. However, the prototyping from Friday is 2/5 at best. So I'm always about a day behind it seems.
 ```
