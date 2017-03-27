@@ -24,18 +24,19 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I get the concept, but my understanding is superficial at this point.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I correlate a function / method as an action that an entity can take. Thinking about it as a VERB is what gets me to understand function.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
-```
+I am learning lots of concept, but understanding them is one thing. I feel I lack the ability to be able to apply it efficiently. When given precise instructions, I do fine. But I am extremely slow to get started in the challenges.
+
+However, compared to day one: I know enough to write code! ```
