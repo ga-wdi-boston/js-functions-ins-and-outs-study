@@ -24,18 +24,29 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I understan the definition of a callback function, but it confusing to understand why they
+are important without any context around the examples.
+
+
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I'm having a hard time deteriming what new variables I need to create in order to use in
+the function itself to get my end result. For example, I'm still unclear on how to retrieve the
+unique values from an array. I plan to ask someone for help in the next work shop session
+we have.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I can feel myself learning but I feel like it as a much slower rate than the pace of the class.
+The dianogstic that require coding take me longer than the alotted 30 mins because I
+still need a lot of time to think through the problem an design my answer.
+
+Luckily, I've worked with developers in the past so I know that it is normal for the design
+process to be very collaborative. I know I will get there, it just may take me longer than others.
 ```
