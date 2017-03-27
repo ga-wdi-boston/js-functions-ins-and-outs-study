@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm not quite sure when/why it is beneficial to declare an anonymous function.
+
+I'd like to see a few more examples describing the difference between function expressions and function declarations.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Are there any best practices when it comes to splitting up functions into bite-sized chunks? I really like that functions are values, and we can compose functions in order to create our code. How do you plan ahead and determine which bits of logic should be wrapped in which functions?
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+GA is fun and challenging. I'm a visual learner, and I've found that I need to whiteboard before I write a single line of code. I'm new to object-oriented programming, so the learning curve has definitely been steep. However, it's incredibly satisfying to build things that I can see and interact with. Looking foward to the next 11 weeks! 
 ```
