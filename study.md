@@ -24,18 +24,24 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I think I probably could have a better grasp on the variable scope of callback
+functions but feel pretty decent about it.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I dont think so.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel really good. What i knew at the start of the week vs what i know now is
+amazing. I have learned that i need to dive deeper into concepts. Once i
+think i know something I need to not trust myself and dive deeper into anyways.
+Overall though i feel really good about the progress im really excited to keep
+going and learn more and more
+
 ```
