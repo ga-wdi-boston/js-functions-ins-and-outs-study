@@ -24,18 +24,24 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I did want to learn a little bit more about use case for function declarations.  Additionally, some added detailed about a "named" function expression would be helpful.  Callback functions seem like they would be be helpful to learn through a codealong.
+
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+For CallBack function, what are the best practices on how to implement or structure them?
+Could you provide more detail about the Apply function and it's use.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
+I am feeling pretty good about my progress.  I feel like the
+consultants are doing a great job of explaining the material.  The code alongs
+, labs, and challenges are extremely helpful.  I also find a lot of value in the group coding projects as I get to learn from my peers.
+
 <!-- your answer here -->
 ```
