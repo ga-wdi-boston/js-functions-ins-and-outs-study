@@ -24,18 +24,19 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Callback functions
+Function hoisting
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Need more practice and lesson introduction with the 'Function Declarations vs. Function Expressions' reading material examples and desired output
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+For the most part, I am happy about my progress to date as a developer gaining basic JavaScript skills.  I need more practice with array and object manipulation as well as practice with the `this` keyword and `prototype` keyword in functions so that I feel more confortable with these concepts.
 ```
