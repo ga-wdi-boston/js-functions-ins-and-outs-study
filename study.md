@@ -24,18 +24,22 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I still get function expressions mixed up with function declarations.  And I am still a little confused about using this with callback functions.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not at this point, the links provided have a lot of good information that I still need to absorb.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I am feeling good.  I feel like we are progressing very quickly so if we keep this pace up I think we will have come a long way at the end of the 12 weeks.
+
+I do feel that the more we learn, the more I realize how much I don't know about programming, but taking the advice of Chris and just focusing on what's in front of me helps.
+
+I feel like we are building up a good set of tools that we can use to tackle the problems that are thrown at us.  I still struggle with being able to apply the tools to the real-world problems.  For example, with the Subway problem I wasn't sure how to structure the data before we started until I read the hint about using arrays for the lists of stations.  Initially I thought they might be keys in an object.  So hopefully the more real-world problems that we solve, the more easily I will be able to take those problems and convert them into structured data that we can work with using Javascript.
 ```
