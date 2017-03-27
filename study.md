@@ -24,18 +24,28 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm still trying to learn more about callback functions and when to use them
+vs a function declartion. Also, I am still confused about the this keyword
+and when to use it in a function.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Aside from above, I struggle when it comes to more complex functions. I now
+understand simple functions and the concepts, but as we get into functions that
+require complex calculations (ex. the run tracker functions), it becomes
+more difficult to grasp where all the information we're using is coming from/stored.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
-```
+Honestly, I felt overwhelmed after the first week. With differing backgrounds
+and skill levels in the class, I felt like I was behind the curve. I put in
+a lot of work over the weekend, rereading trainings, completing javascript
+code school, and watching funfunfunctions YouTube tutorials. I feel better after
+doing those and am in a better spot. It will take some time but I think I've
+made a lot of progress through one week. I still have trouble iterating through
+arrays and sub arrays and have made that a focus point. ```
