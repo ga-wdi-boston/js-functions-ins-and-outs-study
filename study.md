@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I don't think that have a full grasp of hoisting yet, and I would like to see some additional examples of it in class.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+No specific nagging questions.  As I mentioned above, I'd like to see some additional examples of hoisting, and I think that some discussion around function statements vs function declarations would be helpful.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+
+Between the pre-work and the first week of WDI, I certainly have much more development knowledge than I did when I entered the program.  As someone with no prior development experience, I find that I need to spend an extensive amount of time reviewing the materials outside of class in order to feel comfortable with them.  That being said, I entered WDI expecting the demands to be high, and I am prepared to continue applying myself 100% to learning as much as possible.  There are still some concepts that we have convered that I have not yet fully grasped, and I will continue to work on those concepts until I feel proficient in them.  The next eleven weeks will be a journey - I'm excited to have gotten started, and I am looking forward to immersing myself in this experience and emerging as a capable developer.
+
 ```
