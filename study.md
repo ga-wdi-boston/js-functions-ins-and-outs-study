@@ -24,18 +24,35 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- Why would you need to name a function inside of itself
+in the named functions example on MDN they show:
+var math = {
+  'factorial': function factorial(n) {
+    if (n <= 1)
+      return 1;
+    return n * factorial(n - 1);
+  }
+};
+Maybe I'm just confused by line 33 b/c that
+references a math function Factorial? But I thought it
+was supposed to reference itesl
+-->
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Whats the run-time order fo callback functions, with THIS?  One of the articles talked about it, but I'm gonna need to work through examples to really get it.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+<!-- Overall I feel preety good.  I think I'm getting the
+approach of solving the problem in front of you and breaking
+it down to managable peices.
+
+Looking forward to learning more tools/approachs as we dig
+deeper into JS. -->
 ```
