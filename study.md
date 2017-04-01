@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Honestly, very little. I have some trouble really getting a good understanding of the high level paradigm of Js, coming from a traditional java background (the level of fleibility/mutability in Js is quite new to me), but I am really in quite good shape.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+None worth noting.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I am fairly confident about where I stand as a developer at the moment. While Js has presented some new coding paradigms (most notably, inheritence handled by the prototype property and the wide range of use for prototype), none of it has really fallen outside my comfort zone. I am looking forward to integrating Js with HTML CSS next week and working on my project the week after.
 ```
