@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I am still a bit shaky on callback functions. Are they essentially just a function
+within a function? Or is there more to it? Also, What is the main difference between
+a statement and expression? They seem very similar.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Other than the above questions, no.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I have been a JS self study for a few months so a lot of the material I am easily able to follow along with. That said, some of the challenges are far beyond my scope of ability and really would like some challenges that are more in line with the expected experience level up to this point. The first week, though very informative, was sort of all over the place. I am not saying the instruction was not satisfactory, as all of my questions were promptly answered... I guess I just feel a bit disorganized at this point. I certainly cannot retain EVERYTHING that was taught and my main concern is keeping up with this pace of learning (that I naturally expect to become faster and faster.)
 ```
