@@ -24,18 +24,19 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
-```
+I'm still a little fuzzy on callbacks and declarations vs expressions but it's
+mostly just that I need to use them more. ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I actually don't think so, but I suspect it's because I don't know what I don't know.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
-```
+The first couple of days of class were easy and then wednesday afternoon got hard!
+I've learned a ton but I can tell things aren't quite locked into place. I'm sure
+that will come with doing it more. ```
