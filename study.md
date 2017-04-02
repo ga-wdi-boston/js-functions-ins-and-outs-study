@@ -24,18 +24,22 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I am still a little confused about how hoisting works. Altought it seems like just using functions expression instead of function declarations would be the easiest and simpliest thing to do.
+
+I could certainly use more practice using this within a callback method.  I could would like to learn more about the apply() and call() functions as they relate to this.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I would like to learn more about using protyope and the bind() function  more.
+
+The javascriptissexy article reference the jQuery AJAX function, which I would also like to learn more about.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel like I am keeping up pretty well in the class so far.  I am nervous that it is going to get more complicated and stressful, but also excited to learn more.  I'm also looking forward to doing our first project because it is satifsying to work on something and then finish it. 
 ```
