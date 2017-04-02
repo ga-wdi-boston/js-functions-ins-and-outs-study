@@ -24,18 +24,23 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Most of the readings were OK, but the javascriptissexy.com's reading was a little dense. The part where I'm still confused about is when a callback function is a method that uses the 'this' object, and why we have to modify the callback function to avoid errors. But I guess this confusion ties back to getting more familiar with 'this.'
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+At this point, I conceptually understand most of the things we've learned, but much more practice is needed. I'm sure Mike's exercises will help a lot!
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I'm not feeling very confident, that's for sure! Thought I had a grip on things the first few days, but that quickly changed. I know this is to be expected, but coming from an academic environment where I grew used to having to be 'on top' of everything, that feeling of uncertainty has definitely been challenging.
+Using Javascript, and coding in general, is an extremely logical/ methodical process, which although share similarities to what I used to do, is very foreign. Am still getting accustomed to that frame of mind.
+
+Overall, I think I now have a grasp on just how much work I have to put into this program, and am prepared to do so.
+
+And thank you to all the consultants for your ongoing hard work! :)
 ```
