@@ -24,18 +24,25 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+<!-- Overall, I understand what everything is, but not necessarily how they are
+used or excecuted. I don't expect to understand everything right away. I think that
+with more practice, JavaScript will start to click. Until then, I am taking
+notes on everything that doesn't make sense to me and studying. -->
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+<!-- Not that I can think of at the moment. -->
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+<!-- As of right now, I am not afraid to admit that I have a lot to learn.
+I am confident that with keeping focus, studying, and asking questions that
+I will be able to pass this course and make a career out of web development.
+Right now, I don't believe that I am anywhere close to that but I am learning
+and growing each day in class.  -->
 ```
