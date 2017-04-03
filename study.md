@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I don't understand functional expression hoisting.  Callback functions were also
+confusing.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Just the ones above.  Generally more practice would help as well.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+Feeling pretty good so far. The hands on examples are the most helpful.  Really enjoying
+the class and trying to keep up, but I'm enjoying it.
 ```
