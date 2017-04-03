@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I understand the concept and have no problem reading the information given. I just don't have the automatic call-back to draw on yet. So when I go to create a fuction I still have to look at syntax and structure.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+No I just need to review and review and review the information for it to stick.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I feel very unsteady after the first week, I had been doing self-study for around 3 months prior and really tried to do a good job on the fundimetals project and thought I had a good grasp on the material taught in that.  After the first few days in class I started feling lost in the actual coding aspect. While I've gotten a better grasp on the terminal work when a diagnostic starts my head kind of goes blank and with the time constraints the prolems start to feel more and more unsurmountable.  In the fundimentals (pre)work alot of the material was covered but in class new examples were used that clouded my understanding.  So I guess I'm wondering why lessons regarding functions, callback fuctions, (this), gobal scope, local scope, Html, CSS, didn't use the material we had already worked on as a base line to cement the information. I really hope that with another week under my belt at GA I can regain the confidence that I had going in because at this point in time I am very concerned about when the advanced topics start being introduced.
 ```
