@@ -24,18 +24,18 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+The articles were a good source of information. The authors explained the concepts well and with the help of the examples and comments helped alot with understanding what they were trying to convey.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not at the the moment but if i have any that pop in my head I'll be sure to leave a comment in the foumrs channel.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+From a 1-10 scale I'd give myself a 4. That's fairly well in my eyes I thought I'd be sturggling a bit more. The lessons are informative and teaches us of concepts I would never have touched upon myself. Im extremely confident that with the help of my fellow cohrts and the instructors I'll be in the 6-7 range in no time.
 ```
