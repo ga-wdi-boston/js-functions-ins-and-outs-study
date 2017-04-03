@@ -24,18 +24,22 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm feeling pretty good on all of this.
+I feel like I would really benefit from studying the standard built-in objects in JavaScript, so I'm going to do that.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+Not at this time.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I'm feeling pretty solid. I came into this having worked in technology for several years, and even with a couple years
+being very hands-on, so a lot of this is a refresh, not having to learn it for the first time. The more I learn the more
+I realize I don't know and need to learn, but I know that is normal and part of software development. Things are always
+changing so being worried about having to know every detail is nearly impossible.
 ```
