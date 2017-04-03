@@ -24,18 +24,20 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+The readings are pretty straight forward.  I think I need to work through examples with callback functions to fully understand it.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I don't have any nagging questions related to functions, I think I just need more
+practice and examples.  
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+Overall I think I'm progressing slowly but surely as a developer.  I think I just need more practice with functions and modeling.  It makes sense when we go through modeling
+examples but I have a hard time constructing the model myself.
 ```
