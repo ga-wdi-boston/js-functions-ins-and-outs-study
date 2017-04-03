@@ -24,18 +24,19 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+I'm not sure that I fully understood Callback functions. The basic concepts are fine, about objects, arrays, return and functions. From what I get, Callback functions are functions inside functions and they are not executed when called inside another function. I feel like I need to put it into practice to really learn the concept.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+I still don't get how I could use a constructor function to create an object with an array of other objects inside.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I'm comfortable with being uncomfortable. I like the challenges and I feel like I'm progressing. Although I still have a long way to go, I'm definitely learning a lot.
+I get most of the concepts and I'm still learning how to think logically.
 ```
