@@ -24,18 +24,33 @@ After reading all of the required readings, please tell us anything that you
 were confused about.
 
 ```md
-<!-- your answer here -->
+Regarding callback functions, I understand the concept behind the need for using
+call and apply functions in the case of using "this" in order to retain the
+context. However, the example provided in javascriptissexy.com was not clear
+enough on how to create call and apply functions, as well as the difference
+of usage between the two types of functions.
 ```
 
 Are there any nagging questions related to functions that you have?
 
 ```md
-<!-- your answer here -->
+No, not at the moment, other than call/apply functions.
 ```
 
 Thus far, how are you feeling about your progress as a developer? Please give an
 extensive answer.
 
 ```md
-<!-- your answer here -->
+I do feel that I'm at the "informed pessimism" stage (as described by one of our
+consultants, Mike Finneran) as the learning topics becomes more and more difficult,
+particularly regarding Javascript. It was discouraging at first to not be able to
+understand some coding problems even after our consultants go over the solution.
+However, since I am the type of person who needs to take time alone to think
+thoroughly through a problem in order to solve coding challenges, I've
+realized that I shouldn't feel bad for not understanding it in class because
+everyone has his or her own ways of learning. For me, I have difficulty making
+sense of all the material in a classroom setting (especially with a limited
+amount of time) so it's really important for me to review the lecture notes and
+redo the coding practices at home. All in all, I believe that I am making good
+progress as a developer, at least in my own way.
 ```
